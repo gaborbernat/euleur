@@ -1,4 +1,4 @@
-*.py[cod]
+i*.py[cod]
 
 # C extensions
 *.so
@@ -36,3 +36,5 @@ nosetests.xml
 i.pydevproject
 
 .ipynb_checkpoints
+
+names.txt
